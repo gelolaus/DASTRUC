@@ -8,6 +8,11 @@ A repository created to document all activities and projects created during the 
 |---|---|
 |Activity Name|[Link](URL)|
 
+## Lessons
+|Lesson Name|Link|
+|---|---|
+|Week 1|[Link](Lessons\Week1.ipynb)|
+
 ## Projects
 |Project Name|Link|
 |---|---|
