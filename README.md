@@ -6,12 +6,12 @@ A repository created to document all activities and projects created during the 
 ## Activities
 |Activity Name|Link|
 |---|---|
-|Activity Name|[Link](URL)|
+|Activity #1|[Link](Activities/Activity1.ipynb)|
 
 ## Lessons
 |Lesson Name|Link|
 |---|---|
-|Week 1|[Link](Lessons\Week1.ipynb)|
+|Week 1|[Link](Lessons/Week1.ipynb)|
 
 ## Projects
 |Project Name|Link|
