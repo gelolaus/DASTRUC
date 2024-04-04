@@ -12,6 +12,7 @@ A repository created to document all activities and projects created during the 
 |Lesson Name|Link|
 |---|---|
 |Week 1|[Link](Lessons/Week1.ipynb)|
+|Week 3|[Link](Lessons/Week3.ipynb)|
 
 ## Projects
 |Project Name|Link|
